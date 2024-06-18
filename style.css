@@ -76,7 +76,7 @@ padding: 3rem;
 padding-top: 10rem;
 
 text-align: center;
-background: url("image.png") ;
+background: url("/image.png") ;
 background-size: cover;
 background-position: center;
 }
